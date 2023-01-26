@@ -29,6 +29,9 @@ Although our investigation was very interesting, and the data we have acquired i
 ## <a id="project-header"></a>Project Outline
 
 ## <a id="ETL-header"></a>ETL report
+ Extract, Transform & Load
+ 
+ # we do not want to mistakenly suggest a country has low deaths/cases when they have provided less data than others
 
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
 
