@@ -53,9 +53,10 @@ We then loaded our DateFrames into PostgreSQL. We used  a relational database, r
 
 
 ![connecting to db](https://user-images.githubusercontent.com/115706722/214947386-026b1d87-4909-4f10-ad7a-b977c8ab8150.png)
+ 
+![SQL table](https://user-images.githubusercontent.com/115706722/214947406-8f8210da-ce72-4afe-a4d8-e781cda1da9d.png)
 
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
-![SQL table](https://user-images.githubusercontent.com/115706722/214947406-8f8210da-ce72-4afe-a4d8-e781cda1da9d.png)
 
 * jupyter notebook `pip install notebook`
 * pandas `pip install pandas`
