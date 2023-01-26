@@ -67,6 +67,7 @@ We then loaded our DateFrames into PostgreSQL. We used  a relational database, r
 - import **pandas** as **pd**
 - import **numpy** as **np**
 - import **matplotlib.pyplot** as **plt**
+- from sqlalchemy import create_engine
 
 You will also need to insert your own password for PgAdmin to enable you use SQL
 
