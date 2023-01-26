@@ -46,7 +46,16 @@ We also created a visualisation to display the spread of data over time
 [screenshot of plot]
 
 change 'newstartdate' to 'newdate' to allow merge on this variable with the OWID dataset
+
+
+Load 📠
+We then loaded our DateFrames into PostgreSQL. We used  a relational database, rather than a non-relational database (e.g. such as MongoDB) because we wanted to load our data into a fixed data template, visualise and manage the table easily.
+
+
+![connecting to db](https://user-images.githubusercontent.com/115706722/214947386-026b1d87-4909-4f10-ad7a-b977c8ab8150.png)
+
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
+![SQL table](https://user-images.githubusercontent.com/115706722/214947406-8f8210da-ce72-4afe-a4d8-e781cda1da9d.png)
 
 * jupyter notebook `pip install notebook`
 * pandas `pip install pandas`
@@ -55,12 +64,14 @@ change 'newstartdate' to 'newdate' to allow merge on this variable with the OWID
 - import **numpy** as **np**
 - import **matplotlib.pyplot** as **plt**
 
+You will also need to insert your own password for PgAdmin to enable you use SQL
+
 
 ## <a id="file-header"></a>**File Guide**
 
  - Kaggle covid data -  all_weekly_excess_deaths.csv
  - Our World in data - owid-covid-data.csv
- - Loading, extracting and cleaning data - ETL_updated.ipynb
+ - Loading, extracting and cleaning data - within ipynb_checkpoints folder --> ETL_updated.ipynb
  - SQL schema - table_schema.sql
  
 
