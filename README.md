@@ -1,6 +1,6 @@
 # PROJECT_2_ETL
+![Covid-19-Image](https://user-images.githubusercontent.com/115706722/214872996-5228129b-827e-46d6-b84f-87f859921b3f.jpg)
 
-<div style="width: 60%; height: 60%"> [COVID_overview_image png](https://user-images.githubusercontent.com/115706722/214859784-24df6549-ca5e-4566-9e39-f9447836821a.jpg) </div>
 
 This is a team ETL project focused on the death rates during COVID-19. For this project we identified two datasets, sourced from [Kaggle] (_) and [OWID] (_). We combined these datasets to create comparative data over a two year period (2020-2022) from different countries.
 
