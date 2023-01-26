@@ -36,10 +36,14 @@ Although our investigation was very interesting, and the data we have acquired i
 * pandas `pip install pandas`
 
 - import **pandas** as **pd**
+- import **numpy** as **np**
+- import matplotlib.pyplot as **plt**
 
 
 ## <a id="file-header"></a>**File Guide**
 
+ - Kaggle covid data -  all_weekly_excess_deaths.csv
+ - Loading, extracting and cleaning data - group_ETL.ipynb
 
 ## <a id="team-header"></a> Team
 [Ahmed Abdullahi](https://github.com/Ahmedabdullahi1),
