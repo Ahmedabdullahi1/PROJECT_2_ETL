@@ -61,7 +61,7 @@ change 'newstartdate' to 'newdate' to allow merge on this variable with the OWID
  - Kaggle covid data -  all_weekly_excess_deaths.csv
  - Our World in data - owid-covid-data.csv
  - Loading, extracting and cleaning data - ETL_updated.ipynb
- - SQL schema - 
+ - SQL schema - table_schema.sql
  
 
 ## <a id="team-header"></a> Team
