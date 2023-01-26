@@ -44,7 +44,8 @@ We were careful not to mistakenly suggest a country has low deaths/cases when th
 
 We also created a visualisation to display the spread of data over time 
 
-[screenshot of plot]
+ 
+ <img width="774" alt="Screenshot 2023-01-26 at 20 58 27" src="https://user-images.githubusercontent.com/115706722/214949142-d1886845-9493-4665-b457-c08ea9d7123a.png">
 
 change 'newstartdate' to 'newdate' to allow merge on this variable with the OWID dataset
 
