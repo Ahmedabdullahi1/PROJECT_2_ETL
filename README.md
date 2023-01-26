@@ -31,8 +31,21 @@ Although our investigation was very interesting, and the data we have acquired i
 ## <a id="ETL-header"></a>ETL report
  Extract, Transform & Load
  
- # we do not want to mistakenly suggest a country has low deaths/cases when they have provided less data than others
+ **Extract** 📂
+We started by extracting the two CSV files and examining them separately to see what we were working with.
 
+**Transform** 🧹
+
+We dropped many of the columns that were not relevant to our project, then we renamed the column heads in both DataFrames to that we could concatanate the two DataFrames:
+
+To estimate the period of the combined dataset, we decided the common start and end dates for countries between datasets 
+We were careful not to mistakenly suggest a country has low deaths/cases when they have provided less data than others
+
+We also created a visualisation to display the spread of data over time 
+
+[screenshot of plot]
+
+change 'newstartdate' to 'newdate' to allow merge on this variable with the OWID dataset
 ## <a id="dependencies-header"></a>Dependencies and Setup Required
 
 * jupyter notebook `pip install notebook`
@@ -40,13 +53,16 @@ Although our investigation was very interesting, and the data we have acquired i
 
 - import **pandas** as **pd**
 - import **numpy** as **np**
-- import matplotlib.pyplot as **plt**
+- import **matplotlib.pyplot** as **plt**
 
 
 ## <a id="file-header"></a>**File Guide**
 
  - Kaggle covid data -  all_weekly_excess_deaths.csv
- - Loading, extracting and cleaning data - group_ETL.ipynb
+ - Our World in data - owid-covid-data.csv
+ - Loading, extracting and cleaning data - ETL_updated.ipynb
+ - SQL schema - table_schema.sql
+ 
 
 ## <a id="team-header"></a> Team
 [Ahmed Abdullahi](https://github.com/Ahmedabdullahi1),
