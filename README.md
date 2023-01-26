@@ -50,6 +50,7 @@ change 'newstartdate' to 'newdate' to allow merge on this variable with the OWID
 
 
 **Load** 📠
+ 
 We then loaded our DateFrames into PostgreSQL. We used  a relational database, rather than a non-relational database (e.g. such as MongoDB) because we wanted to load our data into a fixed data template, visualise and manage the table easily.
 
 
