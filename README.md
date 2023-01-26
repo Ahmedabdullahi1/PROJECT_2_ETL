@@ -43,7 +43,7 @@ Although our investigation was very interesting, and the data we have acquired i
 
 ## <a id="team-header"></a> Team
 [Ahmed Abdullahi] (https://github.com/Ahmedabdullahi1),
-[Gussie Poole] ()
-[Kareem] (https://github.com/a-kareem)
+[Gussie Poole] (),
+[Kareem] (https://github.com/a-kareem),
 [Fazeleh Arjmandilari] (https://github.com/FazelehA)
 
