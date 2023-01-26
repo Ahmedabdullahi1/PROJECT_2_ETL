@@ -32,6 +32,7 @@ Although our investigation was very interesting, and the data we have acquired i
  Extract, Transform & Load
  
  **Extract** 📂
+ 
 We started by extracting the two CSV files and examining them separately to see what we were working with.
 
 **Transform** 🧹
