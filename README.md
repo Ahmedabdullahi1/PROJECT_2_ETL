@@ -2,7 +2,7 @@
 ![Covid-19-Image](https://user-images.githubusercontent.com/115706722/214872996-5228129b-827e-46d6-b84f-87f859921b3f.jpg)
 
 
-This is a team ETL project focused on the death rates during COVID-19. For this project we identified two datasets, sourced from [Kaggle] (_) and [OWID] (_). We combined these datasets to create comparative data over a two year period (2020-2022) from different countries.
+This is a team ETL project focused on the death rates during COVID-19. For this project we identified two datasets, sourced from Kaggle[1] and OurWorldInData.org[2]. We combined these datasets to create comparative data over a two year period (2020-2022) from different countries.
 
 
 ![covid-and-rbc xd1c8176b](https://user-images.githubusercontent.com/115706722/214858201-ab241306-e267-4f41-96dc-cbcd44e1a4e1.jpg)
@@ -79,6 +79,12 @@ You will also need to insert your own password for PgAdmin to enable you use SQL
  - Loading, extracting and cleaning data - within ipynb_checkpoints folder --> ETL_updated.ipynb
  - SQL schema - table_schema.sql
  
+## <a id="notes-header"></a>**Notes/References**
+
+
+[1] Dave D. (2022). Kaggle.com. https://www.kaggle.com/datasets/dhruvildave/covid19-deaths-dataset (accessed 24/1/2023)
+[2] Mathieu E., Ritchie H., Rodés-Guirao L. et al. (2023). Coronavirus (COVID-19) Cases. ourworldindata.org. https://ourworldindata.org/covid-cases (accessed 24/1/2023).
+
 
 ## <a id="team-header"></a> Team
 [Ahmed Abdullahi](https://github.com/Ahmedabdullahi1),
