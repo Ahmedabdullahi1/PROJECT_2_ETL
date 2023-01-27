@@ -2,7 +2,7 @@
 ![Covid-19-Image](https://user-images.githubusercontent.com/115706722/214872996-5228129b-827e-46d6-b84f-87f859921b3f.jpg)
 
 
-This is a team ETL project focused on the death rates during COVID-19. For this project we identified two datasets, sourced from Kaggle[1] and OurWorldInData.org[2]. We combined these datasets to create comparative data over a two year period (2020-2022) from different countries.
+This is a team ETL project focused on obtaining and preparing data for a potential futute analysis of the relationship between the excess death rates recorded by certain coutries during the COVID-19 pandemic, and their Covid-19 incidence rates. For this project we identified two datasets, sourced from Kaggle[1] and OurWorldInData.org[2]. We combined these datasets to create comparative weekly data over a two-year period (2020-2022) from different countries.
 
 
 ![covid-and-rbc xd1c8176b](https://user-images.githubusercontent.com/115706722/214858201-ab241306-e267-4f41-96dc-cbcd44e1a4e1.jpg)
