@@ -24,7 +24,7 @@ This is a team ETL project focused on the death rates during COVID-19. For this 
 Please see the [File Guide](#file-header) for a complete directory of the files used in this project
 
 ## <a id="limitations-header">Data Limitations
-Although our investigation was very interesting, and the data we have acquired is regularly updated with and its findings are **"true"**, it is important to note that they do not **"tell the entire story".** It is also worth noting that data gathered during covid cannot be used with absolute certainity of reliability.
+Although our investigation was very interesting, and the data we have acquired is regularly updated and its findings are **"true"**, it is important to note that they do not **"tell the entire story"**: future users would need to judiciously assess the best way to use the information in the datasets provided here. It is also worth noting that data gathered across countries regarding the Covid pandemic cannot be used with absolute certainty of reliability.
 
 ## <a id="project-header"></a>Project Outline
 
@@ -37,10 +37,10 @@ We started by extracting the two CSV files and examining them separately to see 
 
 **Transform** 🧹
 
-We dropped many of the columns that were not relevant to our project, then we renamed the column heads in both DataFrames to that we could concatanate the two DataFrames:
+We dropped many of the columns that were not relevant to our project, then we renamed the column heads in both DataFrames so that we could concatanate the two DataFrames:
 
 To estimate the period of the combined dataset, we decided the common start and end dates for countries between datasets 
-We were careful not to mistakenly suggest a country has low deaths/cases when they have provided less data than others
+We were careful not to mistakenly suggest a country has low deaths/cases when they have provided less data than others.
 
 We also created a visualisation to display the spread of data over time 
 
@@ -82,7 +82,7 @@ You will also need to insert your own password for PgAdmin to enable you use SQL
 ## <a id="notes-header"></a>**Notes/References**
 
 
-[1] Dave D. (2022). Kaggle.com. https://www.kaggle.com/datasets/dhruvildave/covid19-deaths-dataset (accessed 24/1/2023)
+[1] Dave D. (2022). Kaggle.com. https://www.kaggle.com/datasets/dhruvildave/covid19-deaths-dataset (accessed 24/1/2023)  
 [2] Mathieu E., Ritchie H., Rodés-Guirao L. et al. (2023). Coronavirus (COVID-19) Cases. ourworldindata.org. https://ourworldindata.org/covid-cases (accessed 24/1/2023).
 
 
