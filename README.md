@@ -83,7 +83,7 @@ You will also need to insert your own password for PgAdmin to enable you use SQL
 
 
 [1] Dave D. (2022). Kaggle.com. https://www.kaggle.com/datasets/dhruvildave/covid19-deaths-dataset (accessed 24/1/2023)  
-[2] Mathieu E., Ritchie H., Rodés-Guirao L. et al. (2023). Coronavirus (COVID-19) Cases. ourworldindata.org. https://ourworldindata.org/covid-cases (accessed 24/1/2023).
+[2] Mathieu E., Ritchie H., Rodés-Guirao L., et al. (2023). Coronavirus (COVID-19) Cases. ourworldindata.org. https://ourworldindata.org/covid-cases (accessed 24/1/2023).
 
 
 ## <a id="team-header"></a> Team
