@@ -2,7 +2,7 @@
 ![Covid-19-Image](https://user-images.githubusercontent.com/115706722/214872996-5228129b-827e-46d6-b84f-87f859921b3f.jpg)
 
 
-This is a team ETL project focused on obtaining and preparing data for a potential futute analysis of the relationship between the excess death rates recorded by certain coutries during the COVID-19 pandemic, and their Covid-19 incidence rates. For this project we identified two datasets, sourced from Kaggle[1] and OurWorldInData.org[2]. We combined these datasets to create comparative weekly data over a two-year period (2020-2022) from different countries.
+This is a team ETL project focused on obtaining and preparing data for a potential futute analysis of the relationship between the excess death rates recorded by certain coutries during the COVID-19 pandemic, and their Covid-19 incidence rates. 
 
 
 ![covid-and-rbc xd1c8176b](https://user-images.githubusercontent.com/115706722/214858201-ab241306-e267-4f41-96dc-cbcd44e1a4e1.jpg)
@@ -12,21 +12,22 @@ This is a team ETL project focused on obtaining and preparing data for a potenti
 
 * [Datasets](#dataset-header)
 * [Limitations](#limitations-header)
-* [Project Outline](#project-header)
 * [ETL report](#ETL-header)
 * [Dependencies and Setup Required](#dependencies-header)
 * [File Guide](#file-header)
+* [Notes/References](#notes-header)
 * [Team](#team-header)
 
 
 ## <a id="dataset-header"></a>Datasets
+
+For this project we identified two datasets, sourced from Kaggle[1] and OurWorldInData.org[2]. We combined these datasets to create comparative weekly data over a two-year period (2020-2022) from different countries.
 
 Please see the [File Guide](#file-header) for a complete directory of the files used in this project
 
 ## <a id="limitations-header">Data Limitations
 Although our investigation was very interesting, and the data we have acquired is regularly updated and its findings are **"true"**, it is important to note that they do not **"tell the entire story"**: future users would need to judiciously assess the best way to use the information in the datasets provided here. It is also worth noting that data gathered across countries regarding the Covid pandemic cannot be used with absolute certainty of reliability.
 
-## <a id="project-header"></a>Project Outline
 
 ## <a id="ETL-header"></a>ETL report
  Extract, Transform & Load
