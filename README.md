@@ -77,7 +77,7 @@ You will also need to insert your own password for PgAdmin to enable you use SQL
 
  - Kaggle covid data -  all_weekly_excess_deaths.csv
  - Our World in data - owid-covid-data.csv
- - Loading, extracting and cleaning data - within ipynb_checkpoints folder --> ETL_updated.ipynb
+ - Loading, extracting and cleaning data - within ipynb_checkpoints folder --> ETL_updated-checkpoint.ipynb
  - SQL schema - table_schema.sql
  
 ## <a id="notes-header"></a>**Notes/References**
